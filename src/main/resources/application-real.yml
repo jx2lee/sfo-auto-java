@@ -1,0 +1,27 @@
+spring:
+  profiles:
+    active: real
+  #  datasource:
+  #    url: jdbc:h2:tcp://localhost/~/workspace/programming/java/sfo/sfo
+  #    username: sa
+  #    password:
+  #    driver-class-name: org.h2.Driver
+  #  jpa:
+  #    hibernate:
+  #      ddl-auto: create
+  #    properties:
+  #      hibernate:
+  #        show_sql: true
+  #        format_sql: true
+  #        default_batch_fetch_size: 1000
+  jackson:
+    serialization:
+      FAIL_ON_EMPTY_BEANS: false
+
+server:
+  port: 1112
+
+dooray:
+  token: "ajjt1imxmtj4:tQkn78_4TcCt9QvxsoRzLw"
+  base_url: "https://api.dooray.com/project/v1/projects"
+  project_id: 2895800239631697029 # TechOps-문의응대
