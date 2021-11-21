@@ -1,7 +1,10 @@
 .idea/
 .gradle/
 build/
+
 sfo.mv.db
 main/resources/application-dev.yml
 main/resources/application-real.yml
-
+*.jar
+*.log
+*.pid
