@@ -1,6 +1,5 @@
 #!/bin/bash
 
-APP_ROOT_PATH=$ROOT_DIR
 APP_PID_PATH=$ROOT_DIR/application.pid
 
 if [ -z "$ROOT_DIR" ];then
