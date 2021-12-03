@@ -1,4 +1,4 @@
-package com.jx2lee.sfo.config;
+package io.github.jx2lee.automation.config;
 
 import lombok.Getter;
 import lombok.Setter;

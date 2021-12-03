@@ -1,8 +1,8 @@
-package com.jx2lee.sfo.api;
+package io.github.jx2lee.automation.api;
 
-import com.jx2lee.sfo.domain.dto.PostReceiveDto;
-import com.jx2lee.sfo.domain.dto.response.IncomingResponseDto;
-import com.jx2lee.sfo.service.NotifyIncomingPostService;
+import io.github.jx2lee.automation.domain.dto.PostReceiveDto;
+import io.github.jx2lee.automation.domain.dto.response.IncomingResponseDto;
+import io.github.jx2lee.automation.service.NotifyIncomingPostService;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;

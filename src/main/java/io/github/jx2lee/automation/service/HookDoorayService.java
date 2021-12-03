@@ -1,4 +1,4 @@
-package com.jx2lee.sfo.service;
+package io.github.jx2lee.automation.service;
 
 import com.google.gson.JsonObject;
 import lombok.extern.slf4j.Slf4j;

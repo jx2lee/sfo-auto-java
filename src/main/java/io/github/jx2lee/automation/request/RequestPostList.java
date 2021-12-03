@@ -1,4 +1,4 @@
-package com.jx2lee.sfo.request;
+package io.github.jx2lee.automation.request;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;

@@ -1,4 +1,4 @@
-package com.jx2lee.sfo.domain.dto.response;
+package io.github.jx2lee.automation.domain.dto.response;
 
 import lombok.Builder;
 import lombok.Data;

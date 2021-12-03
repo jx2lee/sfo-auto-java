@@ -4,8 +4,8 @@ plugins {
     id 'java'
 }
 
-group 'com.jx2lee'
-version '1.0.0'
+group 'io.github.jx2lee'
+version '1.0.0-SNAPSHOT'
 
 configurations {
     compileOnly {

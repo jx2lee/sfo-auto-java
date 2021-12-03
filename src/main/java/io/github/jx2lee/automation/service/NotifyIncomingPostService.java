@@ -1,7 +1,7 @@
-package com.jx2lee.sfo.service;
+package io.github.jx2lee.automation.service;
 
 import com.google.gson.JsonObject;
-import com.jx2lee.sfo.config.DoorayConfig;
+import io.github.jx2lee.automation.config.DoorayConfig;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

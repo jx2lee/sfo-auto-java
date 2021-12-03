@@ -1,4 +1,4 @@
-package com.jx2lee.sfo.domain.dto;
+package io.github.jx2lee.automation.domain.dto;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,8 +1,8 @@
-package com.jx2lee.sfo.service;
+package io.github.jx2lee.automation.service;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
-import com.jx2lee.sfo.request.RequestPostList;
+import io.github.jx2lee.automation.request.RequestPostList;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
