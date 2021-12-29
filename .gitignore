@@ -3,8 +3,8 @@
 build/
 
 sfo.mv.db
-src/main/resources/application-dev.yml
-src/main/resources/application-real.yml
+src/main/resources/application-dev.properties
+src/main/resources/application-real.properties
 *.jar
 *.log
 *.pid
